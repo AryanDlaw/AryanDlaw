@@ -1,6 +1,6 @@
 👋 Hi there! I’m Aryan Varma — a Product Manager with a strong technical foundation and a passion for building data-informed, user-centric products.
 
-With a background in Information Technology and a Master’s degree from Arizona State University, I’ve worked across various tools and technologies to bring product ideas to life. During my time at ASU, I deepened my expertise in analytics, working hands-on with tools such as Tableau, Power BI, Python, SQL, and containerization platforms like Docker for scalable development and deployment.
+With a background in Information Technology and a Master’s degree from Arizona State University, I’ve worked across various tools and technologies to bring product ideas to life. During my time at ASU, I deepened my expertise in analytics, working hands-on with tools such as Tableau, Python, SQL, and containerization platforms like Docker for scalable development and deployment.
 
 I enjoy translating complex technical concepts into meaningful product decisions — and I’m always curious about how things work under the hood. On this GitHub, you’ll find a blend of technical projects, product strategy experiments, and prototypes that reflect both my engineering skills and product thinking.
 
