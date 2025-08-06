@@ -5,6 +5,10 @@ With a background in Information Technology and a Master’s degree from Arizona
 
 I enjoy translating complex technical concepts into meaningful product decisions, and I’m always curious about how things work under the hood. On this GitHub, you’ll find a blend of technical projects, product strategy experiments, and prototypes that reflect both my engineering skills and product thinking.
 
+<h2>Why I Build Dashboards:</h2>
+I create dashboards to discover patterns and uncover insights that are often hidden in raw data. My goal is to turn complexity into clarity—helping myself and others make better, data-informed decisions. Dashboards are my way of communicating with stakeholders, bridging gaps between data and action, and building a deeper understanding of the world around me. Whether it’s for personal exploration or professional impact, I see every dashboard as an opportunity to tell a meaningful, visual story with purpose.
+<br></br>
+
 Let’s build something great! 🚀
 
 - 🔭 I’m currently working on building my PM skills by building projects on AI, using AI tools
